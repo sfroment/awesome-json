@@ -288,6 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
 * [jq play](https://jqplay.org/) - A playground for jq.
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
+* [Serverless Dev Tools - JSON Formatter](https://json-formatter.deeply-editorial-370.workers.dev) - Free online JSON formatter, validator, and minifier. No sign-up, no tracking, all client-side. Part of a [5-tool dev utility suite](https://github.com/sfroment/serverless-dev-tools) on Cloudflare Workers.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
